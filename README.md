@@ -10,3 +10,7 @@ This repo is meant to contain test cases of different jobs performed by the pipe
 /NLP/ contains jobs done to the data once cleaned, in order to generate reports
 
 /notebooks/ contains misc proof of concepts
+
+### Spacy used pipes
+    en_core_web_sm
+    en_core_web_trf
